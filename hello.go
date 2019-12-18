@@ -16,7 +16,8 @@ Summary of Go:
 
 ** Cons
 * Implicit interfaces (debatably a weakness or strength)
-* No generics (to be added some day..?)
+* No generics; big weakness for more complex (type/data wise) OO projects (to be added some day..?)
+* Apparently no strong, dominant web frameworks
 * Decent, but lacking library support
 * Apparently the community is stubborn
 * Fractured dependency management systems (go modules will one day be the standard?)
